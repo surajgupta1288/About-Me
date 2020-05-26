@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Suraj Gupta</string>
+    <string name="yellow_star">Yellow star</string>
+
+    <string name="bio">Hi, my name is Suraj.
+\n\nI am pursuing B.tech,4th year.
+\n\nI am from the Computer Science Departement .
+\nI love to learn new things,that may be acadamic or apart from academics
+\n\nI like play games like cricket,football ,pubg and etc
+\nAnd sometimes I even go bike riding.
+\n\nOnce,graduation completes i will like to do job in Android Domain field.
+\nYou should ask someone else about them, though.\n\n</string>
+    <string name="what_is_your_nickname">what is your nickname ?</string>
+    <string name="done">Done</string>
+</resources>
